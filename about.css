@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #f8f9fa;
+}
+
+.heading {
+    font-weight: 900;
+}
+
+.me-3 a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+section{
+    background-image: url("image/about.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+}
+
+.ul-item{
+   margin-top: 5rem;
+    place-items: center;
+    text-align: justify;
+    
+}
+
+
+footer {
+    background-color: #f8f9fa;
+}
+
+.social-links a{
+    text-decoration: none;
+    color: #000000;
+}
+   
+  
